@@ -12,7 +12,7 @@ ipaddress==1.0.18
 Jinja2==2.9.6
 MarkupSafe==1.0
 ntlm-auth==1.0.6
-paramiko==2.3.1
+paramiko==2.3.3
 pyasn1==0.3.7
 pycparser==2.18
 pycrypto==2.6.1
